@@ -1,10 +1,10 @@
 ---
-layout: single
+layout: fag
 sidebar:
   - image: "/assets/logo_fagcast.jpg"
     image_alt: "FAGcast"
     title: "Timeline Earchive"
-    text: "Unofficial archive for Timeline Earth. Scroll down for episodes and RSS feed."
+    text: "Unofficial archive for FAGcast & Timeline Earth. Scroll down for episodes."
   - text: "<hr/>**Support the show:**<br/><a href='https://www.patreon.com/timelineearth'>**Patreon**</a><br/><br/>**Website:**<br/><a href='https://timelineearth.org/'>**Official site**</a><br/><a href='https://timelineearth.org/shop/'>Merchandise</a><br/><br/>**Social:**<br/><a href='https://twitter.com/timelineearth'>**@timelineearth**</a><br/><a href='https://twitter.com/TLEbirdarchist'>@TLEbirdarchist</a><br/><a href='https://twitter.com/TLE_Car'>@TLE_Car</a><br/><a href='https://twitter.com/PunishedBTWA'>@PunishedBTWA</a><br/><a href='https://twitter.com/TLEPaz'>@TLEPaz</a>"
 ---
 
@@ -12,7 +12,9 @@ sidebar:
 
 The podcast debuted on March 7, 2018, and was originally titled Friends Against Government, because FAG. It was rebranded after 183 episodes on December 9, 2020, as Timeline Earth, because the earth is an infinite expansion in two directions.
 
-Basically, the official site sucks and the FAG episodes are hard to find, so here we are. Currently, this site only archives FAGcast episodes.
+Currently the site only archives FAGcast episodes. Episodes are hosted on the [Internet Archive](https://archive.org/details/fagcast). They can be downloaded in bulk as a [15.1GB zip file](https://archive.org/compress/fagcast/formats=VBR%20MP3&file=/fagcast.zip), or simply use the links below to listen and download.
+
+There's also an [RSS feed](https://archive.org/download/fagcast/fagcast.rss) so you can listen like a podcast. Poke around your podcast app until you find where you can subscribe to a show by providing a URL; on iPhone's Podcasts app, it's located at Library > Three dots (...) > Add a Show by URL. This is the feed URL to use: ```https://archive.org/download/fagcast/fagcast.rss```
 
 ## Hosts
 
@@ -20,17 +22,11 @@ Basically, the official site sucks and the FAG episodes are hard to find, so her
 
 **Car** ([@TLE_Car](https://twitter.com/TLE_Car)) is the sole proprietor of Carcadia, a semiprofessional volleyball player, and the only other host to come prepared for episodes. He enjoys Yuenglings, *assuming*, and anything which subverts the petrodollar.
 
-**Aaro**N ([@PunishedBTWA](https://twitter.com/PunishedBTWA)) is the gainfully employed, regularly absent, and irreverant antihero of the show. He enjoys saying that which should not be said and is solely responsible if the Twitter handle linked here is out-of-date.
+**Aaron** ([@PunishedBTWA](https://twitter.com/PunishedBTWA)) is the gainfully employed, regularly absent, and irreverant antihero of the show. He enjoys saying that which should not be said and is solely responsible if the Twitter handle linked here is out-of-date.
 
 **Paz** ([@TLEPaz](https://twitter.com/TLEPaz)) is the kind-of host, sometimes guest, and definitely a spook. He enjoys cryptids, Warhammer 40K, and cryptids again.
 
-<a class="twitter-timeline" data-height="300" data-dnt="true" href="https://twitter.com/timelineearth?ref_src=twsrc%5Etfw">Tweets by timelineearth</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Episodes
-
-Episodes are hosted on the [Internet Archive](https://archive.org/details/fagcast). They can be downloaded in bulk as a [15.1GB zip file](https://archive.org/compress/fagcast/formats=VBR%20MP3&file=/fagcast.zip), or simply use the links below to listen and download.
-
-There's also an [RSS feed](https://archive.org/download/fagcast/fagcast.rss) so you can listen like a podcast. Poke around your podcast app until you find where you can subscribe to a show by providing a URL; on iPhone's Podcasts app, it's located at Library > Three dots (...) > Add a Show by URL. This is the feed URL to use: ```https://archive.org/download/fagcast/fagcast.rss```
 
 <div id="fag-eps">
 <div id='class'><h3><a href='https://archive.org/download/fagcast/20180307%20%231%20-%20Friendly%20Introductions.mp3'>FAG001 - Friendly Introductions</a></h3><small>Wed, 07 Mar 2018</small><p>In the inaugural episode of the FAGCAST, Car and Bird introduce themselves and talk about how they got into liberty, from Ron Paul to Twitter. They also talk about Ellen and Bitcoin, with a fair helping of baby goats.</p></div>
