@@ -34,6 +34,14 @@
   gtag('config', 'G-GZ4EPSK15G');
 </script>
 
+<!-- https://countapi.xyz/ -->
+<script>
+function cb(response) {
+    document.getElementById('visits').innerText = response.value;
+}
+</script>
+<script async src="https://api.countapi.xyz/hit/timelineearth.xyz/visits?callback=cb"></script>
+
 <style>
 article { margin-top: 2em; }
 .page__content p, .page__content li, .page__content dl { font-size: 13pt; }
