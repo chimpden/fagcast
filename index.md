@@ -17,10 +17,10 @@ There's also an [RSS feed](https://archive.org/download/fagcast/fagcast.rss) so 
 
 ## Hosts
 
-* ([**Bird**](https://twitter.com/TLEbirdarchist)) is a lifelong Floridian, Neil Young superfan, and the unofficial host. He enjoys long drives in the car, FOX Corporation, and editing Aaro**N**’s out of episodes.
-* ([**Car**](https://twitter.com/TLE_Car)) is the sole proprietor of Carcadia, a semiprofessional volleyball player, and the only other host to come prepared for episodes. He enjoys Yuenglings, *assuming*, and anything which subverts the petrodollar.
-* ([**Aaron**](https://twitter.com/PunishedBTWA)) is the gainfully employed, regularly absent, and irreverant antihero of the show. He enjoys saying that which should not be said and is solely responsible if the Twitter handle linked here is out-of-date.
-* ([**Paz**](https://twitter.com/TLEPaz)) is the kind-of host, sometimes guest, and definitely a spook. He enjoys cryptids, Warhammer 40K, and cryptids again.
+* [**Bird**](https://twitter.com/TLEbirdarchist) is a lifelong Floridian, Neil Young superfan, and sexy M&M disrespecter. He enjoys long drives in his car, FOX Corporation, and editing Aaro**N**’s out of episodes.
+* [**Car**](https://twitter.com/TLE_Car) is the sole proprietor of Carcadia, a semiprofessional volleyball player, and the only other host to come prepared for episodes. He enjoys Yuenglings, undermining the petrodollar, and assuming.
+* [**Aaron**](https://twitter.com/PunishedBTWA) is the gainfully employed, regularly absent, and irreverant antihero of the show. He enjoys saying that which should not be said and is solely responsible if the Twitter handle linked here is out-of-date.
+* [**Paz**](https://twitter.com/TLEPaz) is the kind-of host, sometimes guest, and definitely a spook. He enjoys cryptids, Warhammer 40K, and cryptids again.
 
 ## Episodes
 
